@@ -3,7 +3,7 @@
 This is my landing page for Netflix created using HTML, CSS and a little Javascript.
 
 Editor:
-I have used VS Code as my text editor.
+VS Code.
 
 Instructions:
 To view this project just open the 'index.html' file.
